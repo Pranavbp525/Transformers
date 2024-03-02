@@ -1,6 +1,6 @@
 # Transformer Model for Machine Translation
 
-This repository contains an implementation of the Transformer model for machine translation, based on the original paper "Attention is All You Need" by Vaswani et al. The model leverages self-attention mechanisms to translate text from one language to another efficiently.
+This repository contains an implementation of the Transformer model for machine translation, based on the original paper "Attention is All You Need" by Vaswani et al. The model leverages self-attention mechanisms to translate text from one language to another efficiently. The code 
 
 ## Features
 
@@ -37,7 +37,9 @@ The script trains the model and saves checkpoints periodically.
 
 Use the trained model to translate text from the source language to the target language. A `greedy_decode` function is provided for this purpose.
 
-## License
+##Acknowledgements
 
-This project is open-sourced under the MIT License.
+This project was inspired by Umar Jamil's YouTube implementation [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](https://www.youtube.com/watch?v=ISNdQcPhsts)
+
+
 
