@@ -13,9 +13,9 @@ This repository contains an implementation of the Transformer model for machine 
 
 Ensure Python 3.6+ is installed. Install the required libraries using pip:
 
-'''bash
+```bash
 pip install torch torchvision torchaudio transformers tqdm datasets
-'''
+```
 
 ## Usage
 
