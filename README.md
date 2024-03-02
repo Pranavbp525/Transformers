@@ -27,8 +27,9 @@ Adjust your training and model parameters in `config.py`. This includes model ar
 
 To train the Transformer model on your dataset, execute:
 
+```bash
 python train_model.py
-
+```
 
 The script trains the model and saves checkpoints periodically.
 
