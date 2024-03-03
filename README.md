@@ -37,7 +37,7 @@ The script trains the model and saves checkpoints periodically.
 
 Use the trained model to translate text from the source language to the target language. A `greedy_decode` function is provided for this purpose.
 
-##Acknowledgements
+### Acknowledgements
 
 This project was inspired by Umar Jamil's YouTube implementation [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](https://www.youtube.com/watch?v=ISNdQcPhsts)
 
